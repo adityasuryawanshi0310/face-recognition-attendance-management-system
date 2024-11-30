@@ -1,0 +1,6 @@
+tkinter==0.1  
+pymysql==1.0.3
+opencv-python==4.8.0.76
+numpy==1.24.3
+Pillow==9.5.0
+pyttsx3==2.90
